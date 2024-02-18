@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Aires
+- 👀 I’m interested in shaders and front-end
+- 🌱 I’m currently learning .js and OpenGL
+- 💞️ I’m looking to collaborate on: (not interested in the moment)
+- 📫 reach me and find my socials on aires-creator.neocities.org
+- 😄 Pronouns: any!
+- ⚡ Fun fact: i also like working in games and music related stuff too!
